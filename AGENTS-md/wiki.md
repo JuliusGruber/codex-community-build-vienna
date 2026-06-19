@@ -23,6 +23,8 @@ A good `AGENTS.md` covers:
 - Constraints and do-not rules
 - What done means and how to verify work
 
+When Codex makes the same mistake twice, ask it for a retrospective and update `AGENTS.md`.
+
 ## Initialize project guidance (CLI)
 
 Use `/init` to generate a starter `AGENTS.md` in the current project directory. `AGENTS.md` gives Codex durable project guidance, including:
