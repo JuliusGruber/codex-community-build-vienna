@@ -60,6 +60,14 @@ sandbox_mode = "workspace-write"
 approval_policy = "on-request"
 ```
 
+## skills.md
+
+Skills package reusable instructions, references, and optional scripts for repeatable work. In Codex CLI, invoke a skill explicitly by typing its name with a `$` prefix:
+
+```text
+$skill-name
+```
+
 ## MCP
 
 ## Plan mode
