@@ -12,6 +12,8 @@ Codex loads these files from the root toward the current working directory. File
 
 Source: [Official AGENTS.md guide](https://developers.openai.com/codex/guides/agents-md)
 
+Keep it practical. A short, accurate `AGENTS.md` is more useful than a long file full of vague rules. Start with the basics, then add new rules only after you notice repeated mistakes.
+
 ## Initialize project guidance (CLI)
 
 Use `/init` to generate a starter `AGENTS.md` in the current project directory. `AGENTS.md` gives Codex durable project guidance, including:
