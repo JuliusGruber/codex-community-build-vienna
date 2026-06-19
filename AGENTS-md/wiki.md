@@ -1,4 +1,4 @@
-#AGENT.md Wiki
+# AGENT.md Wiki
 
 ## Layered AGENTS.md files
 
