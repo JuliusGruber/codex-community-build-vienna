@@ -23,6 +23,14 @@ A good `AGENTS.md` covers:
 - Constraints and do-not rules
 - What done means and how to verify work
 
+For reliable delivery, include these verification expectations:
+
+- Writing or updating tests for the change
+- Running the right test suites
+- Checking lint, formatting, or type checks
+- Confirming the final behavior matches the request
+- Reviewing the diff for bugs, regressions, or risky patterns
+
 When Codex makes the same mistake twice, ask it for a retrospective and update `AGENTS.md`.
 
 ## Initialize project guidance (CLI)
