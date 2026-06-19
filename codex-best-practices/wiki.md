@@ -36,6 +36,16 @@ Use `/statusline` to configure which details Codex CLI shows in the status line.
 
 Use colors in the status line.
 
+## Plan mode
+
+Use `/plan` in Codex CLI to switch to plan mode before starting a multi-step task. Describe the goal, and Codex will help shape an implementation plan before making changes.
+
+For a more structured workflow:
+
+- Install the Superpowers plugin.
+- Use `superpowers:brainstorming` to clarify the problem, challenge assumptions, and agree on a design.
+- Use `superpowers:writing-plans` to turn the approved design into a detailed implementation plan.
+
 ## Prompt essentials
 
 Codex is already strong enough to be useful even when your prompt isn’t perfect. You can often hand it a hard problem with minimal setup and still get a strong result. Clear prompting isn’t required to get value.
