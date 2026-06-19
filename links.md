@@ -4,6 +4,11 @@
 
 - [developers.openai.com](https://developers.openai.com/codex/learn/best-practices) — Practical guidance for getting better results from Codex.
 
+## Interrogatory LLM
+
+- [github.com](https://github.com/mattpocock/skills/tree/main/skills/productivity/grill-me) — Matt Pocock's `grill-me` skill for challenging and clarifying a plan or design through questions.
+- [github.com](https://github.com/mattpocock/skills/tree/main/skills/engineering/grill-with-docs) — Matt Pocock's `grill-with-docs` skill for grounding plan questions in project documentation.
+
 ## AGENT.md
 
 - [developers.openai.com](https://developers.openai.com/codex/guides/agents-md) — Explains how Codex discovers and layers repository instructions.
