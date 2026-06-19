@@ -9,6 +9,10 @@
 - [github.com](https://github.com/mattpocock/skills/tree/main/skills/productivity/grill-me) — Matt Pocock's `grill-me` skill for challenging and clarifying a plan or design through questions.
 - [github.com](https://github.com/mattpocock/skills/tree/main/skills/engineering/grill-with-docs) — Matt Pocock's `grill-with-docs` skill for grounding plan questions in project documentation.
 
+## Superpowers
+
+- [github.com](https://github.com/obra/Superpowers) — A collection of agentic coding workflows and skills for software development.
+
 ## AGENT.md
 
 - [developers.openai.com](https://developers.openai.com/codex/guides/agents-md) — Explains how Codex discovers and layers repository instructions.
