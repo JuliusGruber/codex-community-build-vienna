@@ -22,6 +22,20 @@ In Codex CLI, type `/model` to change the model and its reasoning effort.
 
 Use higher reasoning effort for complex work when you can accept slower responses and higher token usage.
 
+## Configure the status line (CLI)
+
+Use `/statusline` to configure which details Codex CLI shows in the status line. This CLI shows these items, in order:
+
+- Context used
+- Model with reasoning effort
+- Current directory
+- Git branch
+- Weekly limit
+- Five-hour limit
+- Used tokens
+
+Use colors in the status line.
+
 ## Prompt essentials
 
 Codex is already strong enough to be useful even when your prompt isn’t perfect. You can often hand it a hard problem with minimal setup and still get a strong result. Clear prompting isn’t required to get value.
