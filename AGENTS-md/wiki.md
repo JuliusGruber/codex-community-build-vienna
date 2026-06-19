@@ -10,6 +10,10 @@ Codex loads these files from the root toward the current working directory. File
 
 Source: [Official AGENTS.md guide](https://developers.openai.com/codex/guides/agents-md)
 
+## Large monorepo? Use nested AGENTS.md files for subprojects
+
+Place another AGENTS.md inside each package. Agents automatically read the nearest file in the directory tree, so the closest one takes precedence and every subproject can ship tailored instructions. For example, at time of writing the main OpenAI repo has 88 AGENTS.md files.
+
 ## Governance and status
 
 AGENTS.md is an open format stewarded by the Agentic AI Foundation under the Linux Foundation. It is a Linux Foundation-backed community convention, not a formal standards-body specification such as an ISO or IETF standard.
