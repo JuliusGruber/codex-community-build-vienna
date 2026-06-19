@@ -68,6 +68,20 @@ Skills package reusable instructions, references, and optional scripts for repea
 $skill-name
 ```
 
+### Store repository-specific skills
+
+Store a repository skill at `.agents/skills/<skill-name>/SKILL.md`:
+
+```text
+my-project/
+└── .agents/
+    └── skills/
+        └── release-check/
+            └── SKILL.md
+```
+
+Codex scans `.agents/skills` from the current directory up to the repository root. Put a skill in a nested folder when it should apply only to that subtree.
+
 ### Create a skill with `$skill-creator`
 
 Use `$skill-creator` to create or update a reusable Codex skill. It helps define the skill’s purpose, trigger conditions, and any scripts or references it needs.
