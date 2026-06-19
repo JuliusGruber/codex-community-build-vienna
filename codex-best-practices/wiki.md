@@ -68,6 +68,16 @@ Skills package reusable instructions, references, and optional scripts for repea
 $skill-name
 ```
 
+### Create a skill with `$skill-creator`
+
+Use `$skill-creator` to create or update a reusable Codex skill. It helps define the skill’s purpose, trigger conditions, and any scripts or references it needs.
+
+Example:
+
+```text
+$skill-creator Create a skill that reviews pull-request descriptions for missing testing and rollout details.
+```
+
 ## MCP
 
 ## Plan mode
