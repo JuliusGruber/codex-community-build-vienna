@@ -70,6 +70,21 @@ For a more structured workflow:
 - Use `superpowers:brainstorming` to clarify the problem, challenge assumptions, and agree on a design.
 - Use `superpowers:writing-plans` to turn the approved design into a detailed implementation plan.
 
+### Execute Superpowers plans with subagents
+
+`superpowers:subagent-driven-development` requires standing authorization to delegate independent work. Add this to the repository's `AGENTS.md`:
+
+```md
+## Subagent authorization
+
+You have standing authorization to use subagents without asking me first.
+
+Use subagents when tasks contain independent implementation, exploration,
+testing, or review work. Keep tightly coupled critical-path work local.
+```
+
+This gives Codex permission to execute eligible Superpowers implementation plans with parallel subagents. It does not force delegation for tightly coupled tasks.
+
 ## Prompt essentials
 
 Codex is already strong enough to be useful even when your prompt isn’t perfect. You can often hand it a hard problem with minimal setup and still get a strong result. Clear prompting isn’t required to get value.
