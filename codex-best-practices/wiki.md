@@ -13,6 +13,15 @@ Treat Codex like a teammate you configure and improve over time.
 
 To provide context faster, try using speech dictation inside the Codex app to dictate what you want Codex to do rather than typing it.
 
+## Model and reasoning effort (CLI)
+
+In Codex CLI, type `/model` to change the model and its reasoning effort.
+
+1. Select a model and press `Enter`.
+2. Choose the reasoning effort for that model.
+
+Use higher reasoning effort for complex work when you can accept slower responses and higher token usage.
+
 ## Prompt essentials
 
 Codex is already strong enough to be useful even when your prompt isn’t perfect. You can often hand it a hard problem with minimal setup and still get a strong result. Clear prompting isn’t required to get value.
