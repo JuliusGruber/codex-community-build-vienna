@@ -49,23 +49,15 @@ Ship a small, reviewable PR in a starter repo.
 
 Resources
 
-Codex app: Desktop app setup and local project workflow.
-
-Codex CLI: Terminal-first Codex workflow and local repo usage.
-
-Codex IDE extension: Using Codex inside VS Code-compatible editors and JetBrains.
-
-Codex Sites: How Codex creates and publishes hosted websites, web apps, and games.
-
-In-app browser: Previewing pages, leaving visual comments, and using browser-assisted iteration.
-
-Codex best practices: Core habits for context, planning, verification, review, and reusable guidance.
-
-Custom instructions with AGENTS.md: How Codex discovers and applies repo instructions.
-
-AGENTS.md standard: General convention for writing agent-facing project instructions.
-
-Agent approvals and security: Practical safety model for approvals, sandboxing, and network access.
+- [Codex app](https://developers.openai.com/codex/app): Desktop app setup and local project workflow.
+- [Codex CLI](https://developers.openai.com/codex/cli): Terminal-first Codex workflow and local repo usage.
+- [Codex IDE extension](https://developers.openai.com/codex/ide): Using Codex inside VS Code-compatible editors and JetBrains.
+- [Codex Sites](https://developers.openai.com/codex/sites): How Codex creates and publishes hosted websites, web apps, and games.
+- [In-app browser](https://developers.openai.com/codex/app/browser): Previewing pages, leaving visual comments, and using browser-assisted iteration.
+- [Codex best practices](https://developers.openai.com/codex/learn/best-practices): Core habits for context, planning, verification, review, and reusable guidance.
+- [Custom instructions with AGENTS.md](https://developers.openai.com/codex/guides/agents-md): How Codex discovers and applies repo instructions.
+- [AGENTS.md standard](https://agents.md/): General convention for writing agent-facing project instructions.
+- [Agent approvals and security](https://developers.openai.com/codex/agent-approvals-security): Practical safety model for approvals, sandboxing, and network access.
 
 Staff instructions
 
