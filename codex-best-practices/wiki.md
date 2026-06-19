@@ -60,6 +60,20 @@ sandbox_mode = "workspace-write"
 approval_policy = "on-request"
 ```
 
+## Enable Live Web Search
+
+Codex uses cached web search by default. Live search fetches current web results, which is useful for recent library releases, API documentation, issues, events, prices, policies, and pages that may not yet be in the cache.
+
+To enable it globally, add this to `~/.codex/config.toml`:
+
+```toml
+web_search = "live"
+```
+
+Start a new Codex session after changing the setting. For a one-off live search, start Codex with `--search`.
+
+Cached search has lower prompt-injection exposure. Treat live web content as untrusted and prefer primary sources when accuracy matters.
+
 ## skills.md
 
 Skills package reusable instructions, references, and optional scripts for repeatable work. In Codex CLI, invoke a skill explicitly by typing its name with a `$` prefix:
