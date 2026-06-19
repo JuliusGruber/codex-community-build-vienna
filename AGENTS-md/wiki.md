@@ -14,6 +14,15 @@ Source: [Official AGENTS.md guide](https://developers.openai.com/codex/guides/ag
 
 Keep it practical. A short, accurate `AGENTS.md` is more useful than a long file full of vague rules. Start with the basics, then add new rules only after you notice repeated mistakes.
 
+A good `AGENTS.md` covers:
+
+- Repository layout and important directories
+- How to run the project
+- Build, test, and lint commands
+- Engineering conventions and PR expectations
+- Constraints and do-not rules
+- What done means and how to verify work
+
 ## Initialize project guidance (CLI)
 
 Use `/init` to generate a starter `AGENTS.md` in the current project directory. `AGENTS.md` gives Codex durable project guidance, including:
