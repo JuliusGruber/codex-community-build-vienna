@@ -81,6 +81,17 @@ A good default is to include four things in your prompt:
 - **Constraints:** What standards, architecture, safety requirements, or conventions should Codex follow?
 - **Done when:** What should be true before the task is complete, such as tests passing, behavior changing, or a bug no longer reproducing?
 
+## Review
+
+A useful option here is the slash command `/review`, which gives you a few ways to review code:
+
+- Review against a base branch for PR-style review
+- Review uncommitted changes
+- Review a commit
+- Use custom review instructions
+
+If you and your team have a `code_review.md` file and reference it from `AGENTS.md`, Codex can follow that guidance during review as well. This is a strong pattern for teams that want review behavior to stay consistent across repositories and contributors.
+
 ## Interrogatory LLM
 
 If you have a rough idea of what you want but aren’t sure how to describe it well, ask Codex to question you first. Tell it to challenge your assumptions and turn the fuzzy idea into something concrete before writing code.
