@@ -1,5 +1,9 @@
 # Links
 
+## Events
+
+- [codex-events.com](https://codex-events.com/account/events/codex-build-vienna-2026-06-20?tab=details) — Event details for Codex Build Vienna on June 20, 2026.
+
 ## Codex best practices
 
 - [developers.openai.com](https://developers.openai.com/codex/learn/best-practices) — Practical guidance for getting better results from Codex.
