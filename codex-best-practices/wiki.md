@@ -96,6 +96,32 @@ $skill-creator Create a skill that reviews pull-request descriptions for missing
 
 ## MCP
 
+## Worktrees
+
+Use Git worktrees when you need an isolated checkout for parallel or experimental work without disturbing your current directory.
+
+Codex CLI does not create worktrees directly. Create one with Git, then start Codex in that directory:
+
+```powershell
+git worktree add ..\my-project-feature -b feature/my-task main
+codex --cd ..\my-project-feature
+```
+
+If the branch already exists:
+
+```powershell
+git worktree add ..\my-project-feature feature/my-task
+codex --cd ..\my-project-feature
+```
+
+Remove the worktree when you no longer need it:
+
+```powershell
+git worktree remove ..\my-project-feature
+```
+
+A branch can only be checked out in one worktree at a time. Use a separate branch for each concurrent checkout.
+
 ## Plan mode
 
 Use `/plan` in Codex CLI to switch to plan mode before starting a multi-step task. Describe the goal, and Codex will help shape an implementation plan before making changes.
