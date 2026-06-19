@@ -1,4 +1,6 @@
-# Layered AGENTS.md files
+#AGENT.md Wiki
+
+## Layered AGENTS.md files
 
 Codex supports layered `AGENTS.md` guidance:
 
