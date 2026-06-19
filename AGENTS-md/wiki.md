@@ -12,6 +12,17 @@ Codex loads these files from the root toward the current working directory. File
 
 Source: [Official AGENTS.md guide](https://developers.openai.com/codex/guides/agents-md)
 
+## Initialize project guidance (CLI)
+
+Use `/init` to generate a starter `AGENTS.md` in the current project directory. `AGENTS.md` gives Codex durable project guidance, including:
+
+- How to run, build, test, and lint the project
+- Repository layout and engineering conventions
+- Review expectations and constraints
+- What done means and how to verify work
+
+Treat the generated file as a scaffold. Edit it to reflect the real project workflow and review the resulting diff, especially when the repository already has an `AGENTS.md`.
+
 ## Large monorepo? Use nested AGENTS.md files for subprojects
 
 Place another AGENTS.md inside each package. Agents automatically read the nearest file in the directory tree, so the closest one takes precedence and every subproject can ship tailored instructions. For example, at time of writing the main OpenAI repo has 88 AGENTS.md files.

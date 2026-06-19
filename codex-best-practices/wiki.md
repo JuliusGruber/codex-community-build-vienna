@@ -36,17 +36,6 @@ Use `/statusline` to configure which details Codex CLI shows in the status line.
 
 Use colors in the status line.
 
-## Initialize project guidance (CLI)
-
-Use `/init` to generate a starter `AGENTS.md` in the current project directory. `AGENTS.md` gives Codex durable project guidance, including:
-
-- How to run, build, test, and lint the project
-- Repository layout and engineering conventions
-- Review expectations and constraints
-- What done means and how to verify work
-
-Treat the generated file as a scaffold. Edit it to reflect the real project workflow and review the resulting diff, especially when the repository already has an `AGENTS.md`.
-
 ## Prompt essentials
 
 Codex is already strong enough to be useful even when your prompt isn’t perfect. You can often hand it a hard problem with minimal setup and still get a strong result. Clear prompting isn’t required to get value.
