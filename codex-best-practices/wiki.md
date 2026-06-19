@@ -68,6 +68,8 @@ Skills package reusable instructions, references, and optional scripts for repea
 $skill-name
 ```
 
+A good rule of thumb: if you keep reusing the same prompt or correcting the same workflow, it should probably become a skill.
+
 ### Store repository-specific skills
 
 Store a repository skill at `.agents/skills/<skill-name>/SKILL.md`:
