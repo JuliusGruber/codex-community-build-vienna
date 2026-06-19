@@ -60,6 +60,8 @@ sandbox_mode = "workspace-write"
 approval_policy = "on-request"
 ```
 
+## MCP
+
 ## Plan mode
 
 Use `/plan` in Codex CLI to switch to plan mode before starting a multi-step task. Describe the goal, and Codex will help shape an implementation plan before making changes.
