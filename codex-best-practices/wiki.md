@@ -36,6 +36,30 @@ Use `/statusline` to configure which details Codex CLI shows in the status line.
 
 Use colors in the status line.
 
+## Configure Codex
+
+Codex stores personal configuration in `~/.codex/config.toml`.
+
+You can configure:
+
+- Model choice and reasoning effort
+- Sandbox mode and approval policy
+- Named configuration profiles
+- MCP server setup
+- Multi-agent settings and feature flags
+
+`config.toml` keeps Codex behavior consistent across sessions and surfaces.
+
+- Keep personal defaults in `~/.codex/config.toml` (Settings → Configuration → Open config.toml from the Codex app).
+- Keep repo-specific behavior in `.codex/config.toml`.
+
+A sensible default for local development is:
+
+```toml
+sandbox_mode = "workspace-write"
+approval_policy = "on-request"
+```
+
 ## Plan mode
 
 Use `/plan` in Codex CLI to switch to plan mode before starting a multi-step task. Describe the goal, and Codex will help shape an implementation plan before making changes.
