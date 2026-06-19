@@ -12,6 +12,6 @@ Source: [Official AGENTS.md guide](https://developers.openai.com/codex/guides/ag
 
 ## Governance and status
 
-LF stands for the Linux Foundation. AGENTS.md is an open format stewarded by the Agentic AI Foundation under the Linux Foundation. It is an LF-backed community convention, not a formal standards-body specification such as an ISO or IETF standard.
+AGENTS.md is an open format stewarded by the Agentic AI Foundation under the Linux Foundation. It is a Linux Foundation-backed community convention, not a formal standards-body specification such as an ISO or IETF standard.
 
 Source: [AGENTS.md](https://agents.md/)
