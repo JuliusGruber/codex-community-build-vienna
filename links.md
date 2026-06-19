@@ -13,6 +13,10 @@
 
 - [github.com](https://github.com/obra/Superpowers) — A collection of agentic coding workflows and skills for software development.
 
+## Skills
+
+- [skills.sh](https://www.skills.sh/) — Directory for discovering and installing agent skills.
+
 ## AGENT.md
 
 - [developers.openai.com](https://developers.openai.com/codex/guides/agents-md) — Explains how Codex discovers and layers repository instructions.
