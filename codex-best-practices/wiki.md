@@ -110,6 +110,8 @@ $skill-creator Create a skill that reviews pull-request descriptions for missing
 
 ## MCP
 
+- [Top 10 most-used MCP servers for OpenAI Codex](../MCP/top-10-mcp-servers-codex.md)
+
 ## Worktrees
 
 Use Git worktrees when you need an isolated checkout for parallel or experimental work without disturbing your current directory.

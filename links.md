@@ -8,6 +8,10 @@
 
 - [developers.openai.com](https://developers.openai.com/codex/learn/best-practices) — Practical guidance for getting better results from Codex.
 
+## MCP
+
+- [top-10-mcp-servers-codex.md](MCP/top-10-mcp-servers-codex.md) — Repository guide to the ten most-used MCP servers for OpenAI Codex.
+
 ## Interrogatory LLM
 
 - [github.com](https://github.com/mattpocock/skills/tree/main/skills/productivity/grill-me) — Matt Pocock's `grill-me` skill for challenging and clarifying a plan or design through questions.
