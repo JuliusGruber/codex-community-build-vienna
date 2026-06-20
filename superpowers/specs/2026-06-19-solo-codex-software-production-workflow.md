@@ -77,7 +77,7 @@ The specification should cover:
 Use superpowers:brainstorming to turn the approved product brief into a
 specification. Inspect the repository first. Ask one question at a time,
 propose alternatives with trade-offs, and wait for my approval before writing
-the spec. Save the approved spec under docs/superpowers/specs/.
+the spec. Save the approved spec under superpowers/specs/.
 ```
 
 **Exit criteria:** The specification is written, self-reviewed for ambiguity and contradictions, committed to `main`, and explicitly approved by the developer.
@@ -105,7 +105,7 @@ Avoid placeholders such as “add validation” or “write tests.” Write the 
 ```text
 Use superpowers:writing-plans for the approved specification at
 [path]. Create a task-by-task TDD implementation plan in
-docs/superpowers/plans/. Include exact paths, interfaces, test code, commands,
+superpowers/plans/. Include exact paths, interfaces, test code, commands,
 expected results, and commit boundaries. Do not implement the plan yet.
 ```
 
@@ -126,7 +126,7 @@ For this repository, all execution modes commit completed focused changes and pu
 **Codex prompt:**
 
 ```text
-Implement docs/superpowers/plans/[plan].md using
+Implement superpowers/plans/[plan].md using
 superpowers:subagent-driven-development. Follow the plan task by task, keep
 changes in scope, commit each completed task, and push directly to main.
 ```
