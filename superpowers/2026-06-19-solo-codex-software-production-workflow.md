@@ -77,7 +77,7 @@ The specification should cover:
 Use superpowers:brainstorming to turn the approved product brief into a
 specification. Inspect the repository first. Ask one question at a time,
 propose alternatives with trade-offs, and wait for my approval before writing
-the spec. Save the approved spec under superpowers/specs/.
+the spec. Save the approved spec under superpowers/.
 ```
 
 **Exit criteria:** The specification is written, self-reviewed for ambiguity and contradictions, committed to `main`, and explicitly approved by the developer.
