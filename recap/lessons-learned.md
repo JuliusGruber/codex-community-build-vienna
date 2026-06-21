@@ -11,4 +11,5 @@
 - Provide API credits so AI apps can be developed and remain working for the demo session; ideally OpenAI would supply both development and API credits.
 - Use proper tables instead of a lecture-room setup, which makes it hard to move around and talk to participants.
 - Hold a short tutor meeting before the event starts so all tutors are on the same page about the proceedings.
+- Have tutors redirect participants to the right track once they notice someone is over- or underqualified for their current one. For example, I had a non-programmer in my track, and one team that could easily have been on the intermediate track.
 
