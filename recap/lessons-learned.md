@@ -4,6 +4,7 @@
 
 - All participants arrived with their own idea of what they wanted to build.
 - Absolutely stunning location.
+- Lots of people were willing to present in the demo session.
 
 ## Improvements
 
