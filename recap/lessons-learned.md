@@ -2,6 +2,8 @@
 
 ## What went well
 
+- All participants arrived with their own idea of what they wanted to build.
+
 ## Improvements
 
 - Provide a separate room for each track so groups can work without distraction.
