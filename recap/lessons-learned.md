@@ -4,3 +4,7 @@
 
 ## Improvements
 
+- Provide a separate room for each track so groups can work without distraction.
+- Equip each track with a beamer so tutors can address the whole group at once.
+- Set up a group chat for each track so the tutor and participants can quickly share links and other content.
+
