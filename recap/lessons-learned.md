@@ -10,4 +10,5 @@
 - Simplify the credit-claiming process; in some cases it took 1 to 1.5 hours to set up.
 - Provide API credits so AI apps can be developed and remain working for the demo session; ideally OpenAI would supply both development and API credits.
 - Use proper tables instead of a lecture-room setup, which makes it hard to move around and talk to participants.
+- Hold a short tutor meeting before the event starts so all tutors are on the same page about the proceedings.
 
