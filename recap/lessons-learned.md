@@ -3,6 +3,7 @@
 ## What went well
 
 - All participants arrived with their own idea of what they wanted to build.
+- Absolutely stunning location.
 
 ## Improvements
 
