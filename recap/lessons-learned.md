@@ -6,6 +6,7 @@
 - Absolutely stunning location.
 - Lots of people were willing to present in the demo session.
 - The overall mood and attitude of the participants was great.
+- The format of the event (hackathon / tutorial) definitely works.
 
 ## Improvements
 
