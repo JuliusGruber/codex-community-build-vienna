@@ -9,4 +9,5 @@
 - Set up a group chat for each track so the tutor and participants can quickly share links and other content.
 - Simplify the credit-claiming process; in some cases it took 1 to 1.5 hours to set up.
 - Provide API credits so AI apps can be developed and remain working for the demo session; ideally OpenAI would supply both development and API credits.
+- Use proper tables instead of a lecture-room setup, which makes it hard to move around and talk to participants.
 
